@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>TOCO&#39;s BLOG</title>
-    <link>http://localhost:1313/zh-cn/</link>
+    <link>https://trocolish.github.io/zh-cn/</link>
     <description>Recent content on TOCO&#39;s BLOG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>2010-01-21</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/zh-cn/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://trocolish.github.io/zh-cn/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>测试文章</title>
-      <link>http://localhost:1313/zh-cn/2006/01/02/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</link>
+      <link>https://trocolish.github.io/zh-cn/2006/01/02/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</link>
       <pubDate>2010-01-21</pubDate>
       
-      <guid>http://localhost:1313/zh-cn/2006/01/02/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</guid>
+      <guid>https://trocolish.github.io/zh-cn/2006/01/02/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</guid>
       <description>&lt;p&gt;test&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>测试文章</title>
-      <link>http://localhost:1313/zh-cn/2006/01/02/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</link>
+      <link>https://trocolish.github.io/zh-cn/2006/01/02/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</link>
       <pubDate>2010-01-21</pubDate>
       
-      <guid>http://localhost:1313/zh-cn/2006/01/02/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</guid>
+      <guid>https://trocolish.github.io/zh-cn/2006/01/02/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</guid>
       <description>&lt;h1 id=&#34;测试标题&#34;&gt;测试标题&lt;/h1&gt;
 &lt;h2 id=&#34;标题2&#34;&gt;标题2&lt;/h2&gt;
 &lt;p&gt;test&lt;/p&gt;</description>
@@ -33,19 +33,19 @@
     
     <item>
       <title>测试文章</title>
-      <link>http://localhost:1313/zh-cn/2006/01/02/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</link>
+      <link>https://trocolish.github.io/zh-cn/2006/01/02/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</link>
       <pubDate>2010-01-21</pubDate>
       
-      <guid>http://localhost:1313/zh-cn/2006/01/02/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</guid>
+      <guid>https://trocolish.github.io/zh-cn/2006/01/02/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</guid>
       <description>&lt;p&gt;test&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>关于本TO</title>
-      <link>http://localhost:1313/zh-cn/about/</link>
+      <link>https://trocolish.github.io/zh-cn/about/</link>
       <pubDate>1010-01-11</pubDate>
       
-      <guid>http://localhost:1313/zh-cn/about/</guid>
+      <guid>https://trocolish.github.io/zh-cn/about/</guid>
       <description>&lt;h2 id=&#34;toco--玻璃&#34;&gt;TOCO / 玻璃&lt;/h2&gt;
 &lt;p&gt;学艺不精，日常啃啃&amp;amp;崩溃人士。&lt;/p&gt;
 &lt;p&gt;主页上基本没写什么东西但！&lt;/p&gt;
@@ -59,9 +59,7 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;关于博客&#34;&gt;关于博客&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;啃啃脑子&lt;/p&gt;</description>
+&lt;p&gt;暂时自嗨，没有接评论系统，需要联系的话，邮件：2874244851@qq.com.&lt;/p&gt;</description>
     </item>
     
   </channel>

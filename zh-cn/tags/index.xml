@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on TOCO&#39;s BLOG</title>
-    <link>http://localhost:1313/zh-cn/tags/</link>
+    <link>https://trocolish.github.io/zh-cn/tags/</link>
     <description>Recent content in Tags on TOCO&#39;s BLOG</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <copyright>TOCO</copyright>
     <lastBuildDate>Mon, 02 Jan 2006 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh-cn/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://trocolish.github.io/zh-cn/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>测试</title>
-      <link>http://localhost:1313/zh-cn/tags/%E6%B5%8B%E8%AF%95/</link>
+      <link>https://trocolish.github.io/zh-cn/tags/%E6%B5%8B%E8%AF%95/</link>
       <pubDate>Mon, 02 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-cn/tags/%E6%B5%8B%E8%AF%95/</guid>
+      <guid>https://trocolish.github.io/zh-cn/tags/%E6%B5%8B%E8%AF%95/</guid>
       <description></description>
     </item>
   </channel>
