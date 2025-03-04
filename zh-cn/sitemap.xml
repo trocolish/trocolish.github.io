@@ -1,0 +1,87 @@
+<?xml-stylesheet type="text/xsl" href="http://localhost:1313/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://localhost:1313/zh-cn/categories/</loc>
+    <lastmod>2006-01-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/zh-cn/posts/</loc>
+    <lastmod>2006-01-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/zh-cn/tags/</loc>
+    <lastmod>2006-01-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/zh-cn/</loc>
+    <lastmod>2006-01-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/zh-cn/tags/%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2006-01-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/zh-cn/2006/01/02/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</loc>
+    <lastmod>2006-01-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/zh-cn/2006/01/02/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</loc>
+    <lastmod>2006-01-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/zh-cn/2006/01/02/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</loc>
+    <lastmod>2006-01-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/zh-cn/categories/%E5%93%BC%E5%93%BC%E5%94%A7%E5%94%A7/</loc>
+    <lastmod>2006-01-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/zh-cn/categories/%E5%95%83%E5%95%83%E8%84%91%E5%AD%90/</loc>
+    <lastmod>2006-01-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/zh-cn/categories/%E7%94%9F%E6%B4%BB%E9%93%BE%E6%8E%A5/</loc>
+    <lastmod>2006-01-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/zh-cn/about/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+</urlset>
