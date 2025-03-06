@@ -7,14 +7,21 @@
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <copyright>TOCO</copyright>
-    <lastBuildDate>Mon, 02 Jan 2006 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://trocolish.github.io/zh-cn/categories/%E5%95%83%E5%95%83%E8%84%91%E5%AD%90/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>测试文章</title>
-      <link>https://trocolish.github.io/zh-cn/2006/01/02/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</link>
-      <pubDate>Mon, 02 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>https://trocolish.github.io/zh-cn/2006/01/02/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</guid>
-      <description>&lt;p&gt;test&lt;/p&gt;</description>
+      <title>常用工具——文档篇</title>
+      <link>https://trocolish.github.io/zh-cn/2025/03/06/%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7%E6%96%87%E6%A1%A3%E7%AF%87/</link>
+      <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://trocolish.github.io/zh-cn/2025/03/06/%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7%E6%96%87%E6%A1%A3%E7%AF%87/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;第一篇博客介绍一些常用的、与生产力关系不大（因为Toco没有生产力——）的电脑工具。&lt;/p&gt;&#xA;&lt;p&gt;前提：本机系统 win11 + wsl ubuntu-22.04&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;笔记&#34;&gt;笔记&lt;/h2&gt;&#xA;&lt;h3 id=&#34;typora&#34;&gt;Typora&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;markdown即时渲染编辑器，官网地址：https://typora.io&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>常用工具——文档篇</title>
+      <link>https://trocolish.github.io/zh-cn/2025/03/06/%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7%E6%96%87%E6%A1%A3%E7%AF%87/</link>
+      <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://trocolish.github.io/zh-cn/2025/03/06/%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7%E6%96%87%E6%A1%A3%E7%AF%87/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;第一篇博客介绍一些常用的、与生产力关系不大（因为Toco没有生产力——）的电脑工具。&lt;/p&gt;&#xA;&lt;p&gt;前提：本机系统 win11 + wsl ubuntu-22.04&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;笔记&#34;&gt;笔记&lt;/h2&gt;&#xA;&lt;h3 id=&#34;typora&#34;&gt;Typora&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;markdown即时渲染编辑器，官网地址：https://typora.io&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
